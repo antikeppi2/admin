@@ -1,0 +1,26 @@
+﻿---
+name: "Minecraft-Online"
+url: "minecraft-online"
+hidden: false
+only_premium: false
+versions:
+  - "1.12.2"
+categories:
+  - "vanilla"
+  - "pvp"
+staff:
+  - Amministratore:
+    - "859432791d7d4555ac79190c449326fc"
+  - Moderatore:
+    - "a3b4627895564fca85eb64769b2df212"
+www: "https://www.mc-o.ml"
+forum: "https://forum.mc-o.ml"
+query_port: 25565
+theme_color: "#2173c3"
+---
+#### Presentazione
+Server Vanilla No Grief!
+Entrate a vedere un server degno di sè. Vanilla Pura e... Vanilla!
+Costruite Qualcosa per mettere un segno nella storia di Minecraft-Online!
+
+![Server logo](https://i.imgur.com/JhZAZIV.jpg) 
